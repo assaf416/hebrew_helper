@@ -21,4 +21,4 @@ gem "hebrew_helper"
 
 ## Usage
 
-This gem is created by Ryan Bates and is under the MIT License.
+This gem is created by Assaf Goldstein and is under the MIT License.
