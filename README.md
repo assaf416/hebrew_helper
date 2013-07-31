@@ -3,7 +3,9 @@
  Provides several helper functions like:
 
   -- decode base64 strings
+
   -- validate email addresses
+
   -- hebrew version of the time_ago
 
 
